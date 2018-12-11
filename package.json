@@ -1,0 +1,20 @@
+{
+  "name": "pracftica-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --exit"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "@fav/math.lcm": "^0.1.1",
+    "compute-gcd": "^1.2.0",
+    "is-coprime": "^1.0.0",
+    "is-number-prime": "^1.0.1"
+  }
+}
